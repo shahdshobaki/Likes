@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: cursive;
+}
+.line1{
+
+    
+    display: flex;
+    margin: 10px 0px 20px 10px;
+}
+.card1{
+    border: solid  black ;
+    height: 150px;
+    width: 400px;
+    margin: 20px 0px 20px 50px;
+}
+h1{
+    margin: 5px 5px 0px 10px;
+}
+p.like1{
+    margin: 20px 10px 0px 30px;
+
+}
+p.like2{
+    margin: 20px 10px 0px 30px;
+
+}
+p.like3{
+    margin: 20px 10px 0px 30px;
+
+}
+button{
+    height: 30px;
+    width: 80px;
+    margin: 20px 20px 0px 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(231, 231, 52);
+    box-shadow: 3px 3px black;
+}
+
+p.filler1{
+    margin: 10px 0px 0px 20px;
+}
+.Network{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    width: 630px;
+}
+.prof{
+    height: 80px;
+    width: 80px ;
+    border-radius: 50%;
+    margin: 30px 0px 10px 50px;
+}
+.James{
+    border: solid black;
+    width: 190px;
+    height: 280px;
+    margin: 20px 0px 0px 10px;
+}
+h1.Doe{
+    margin: 30px 0px 0px 10px;
+}
+.avatar{
+    margin: 40px 0px 0px 40px;
+}
+.col{
+    display: flex;
+}
+.all{
+    margin: 0% 0% 0% 30%;
+}
+h1.Your{
+    margin: 5px 10px 0px 250px;
+}

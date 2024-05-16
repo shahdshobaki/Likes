@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.line{
+
+    
+    display: flex;
+    margin: 10px 0px 20px 10px;
+}
+.card{
+    border: solid  black ;
+    height: 150px;
+    width: 400px;
+    margin: 50px 0px 20px 50px;
+}
+h1{
+    margin: 5px 5px 0px 10px;
+}
+p.like{
+    margin: 20px 10px 0px 30px;
+
+}
+button{
+    height: 30px;
+    width: 80px;
+    margin: 20px 20px 0px 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(231, 231, 52);
+    box-shadow: 3px 3px black;
+}
+
+p.filler{
+    margin: 10px 0px 0px 20px;
+}
